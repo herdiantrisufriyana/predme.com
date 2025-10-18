@@ -1,9 +1,11 @@
 ---
-title: "Training Machines to Help Doctors and Scientists Prevent Unhealthy Pregnancies"
+title: "PredMe – Enabling P4 medicine for everyone"
 ---
 
-Welcome to the intersection of maternal-fetal medicine and artificial intelligence (AI). I am dedicated to improving pregnancy care by leveraging machine learning. Through medical AI, our work aims to provide solutions that improve pregnancy outcomes.
+Our mission is to help doctors and scientists prevent unhealthy conditions before they manifest.
 
-My research is centered on understanding the causes and prevention of preeclampsia, extending to similar conditions encompassed by the great obstetrical syndrome. I focus on prognostic predictive modeling and causal inference, particularly applying structural causal modeling. I am interested in a diverse range of data, either observational or experimental, such as electronic health records, high-throughput data, and wet lab experiment data to develop a comprehensive understanding of these complex conditions.
+PredMe exists to accelerate proactive and precise care. We provide tools that support your clinical and research decisions; built to fit the way you work.
 
-Discover more and feel free to contact me [here](about.qmd).
+We believe in the power of community. PredMe is by us, from us, and for us. Driven by real-world impact, not just access.
+
+Explore our apps [here](https://predme.app/).

@@ -63,3 +63,4 @@ __pycache__/
 
 # Ignore doc
 doc/
+/.quarto/

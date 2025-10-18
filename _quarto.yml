@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "herdiantrisufriyana.com"
+  title: "predme.com"
   navbar:
+    logo: predme-logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
