@@ -1,0 +1,9 @@
+---
+title: "Training Machines to Help Doctors and Scientists Prevent Unhealthy Pregnancies"
+---
+
+Welcome to the intersection of maternal-fetal medicine and artificial intelligence (AI). I am dedicated to improving pregnancy care by leveraging machine learning. Through medical AI, our work aims to provide solutions that improve pregnancy outcomes.
+
+My research is centered on understanding the causes and prevention of preeclampsia, extending to similar conditions encompassed by the great obstetrical syndrome. I focus on prognostic predictive modeling and causal inference, particularly applying structural causal modeling. I am interested in a diverse range of data, either observational or experimental, such as electronic health records, high-throughput data, and wet lab experiment data to develop a comprehensive understanding of these complex conditions.
+
+Discover more and feel free to contact me [here](about.qmd).

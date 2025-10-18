@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nAn MD/PhD who trains machines for assisting doctors and scientists to avoid unhealthy pregnancy.\n\n\nTopics of Interest\n\nArtificial Intelligence in Obstetrics\nPreeclampsia\nPrognostic Prediction\nCausal Inference\nPathway Analysis\n\n\n\nPublications\n\nGoogle Scholar\n\n\n\nSoftwares and Codes\n\nGitHub\n\n\n\nPeer Reviews\n\nWeb of Science Author (choose tab “Peer Review”)\n\n\n\nContact Me\n\nEmail: herdi[at]tmu[dot]edu[dot]tw\nTwitter: @herdiants"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Training Machines to Help Doctors and Scientists Prevent Unhealthy Pregnancies",
+    "section": "",
+    "text": "Welcome to the intersection of maternal-fetal medicine and artificial intelligence (AI). I am dedicated to improving pregnancy care by leveraging machine learning. Through medical AI, our work aims to provide solutions that improve pregnancy outcomes.\nMy research is centered on understanding the causes and prevention of preeclampsia, extending to similar conditions encompassed by the great obstetrical syndrome. I focus on prognostic predictive modeling and causal inference, particularly applying structural causal modeling. I am interested in a diverse range of data, either observational or experimental, such as electronic health records, high-throughput data, and wet lab experiment data to develop a comprehensive understanding of these complex conditions.\nDiscover more and feel free to contact me here."
+  }
+]
