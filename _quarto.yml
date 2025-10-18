@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-#  resources:
-#    - CNAME
+  resources:
+    - CNAME
 
 website:
   title: "predme.com"
