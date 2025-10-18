@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "predme.com"
+  google-analytics: "G-TMSZGFFJWF"
   navbar:
     logo: predme-logo.png
     left:
