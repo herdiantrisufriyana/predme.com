@@ -2,7 +2,7 @@
 title: "PredMe – Enabling P4 medicine for everyone"
 ---
 
-Our mission is to help doctors and scientists prevent unhealthy conditions before they manifest.
+Our mission is **to help doctors and scientists prevent unhealthy conditions before they manifest**.
 
 PredMe exists to accelerate proactive and precise care. We provide tools that support your clinical and research decisions; built to fit the way you work.
 
