@@ -8,8 +8,6 @@ PredMe is building the Causal Inference Machine — a universal prediction model
 
 We help practitioners and scientists prevent unhealthy conditions before they manifest, embedding rigorous science into the way they already work. Biomedicine is where we start. The machine extends to every domain where causation matters — insurance, finance, marketing, policy.
 
-Our first product, Hypathesis, extracts structured causal relationships from research papers using a patented method. Peer-reviewed at IEEE EMBC 2026. 17 beta testers, 94% willing to pay.
+Our first product, Hypathesis, extracts structured causal relationships from research papers using a patented method. Peer-reviewed at IEEE EMBC 2026.
 
-Founded August 31, 2025. Delaware C-Corp. Solo founder: Herdiantri Sufriyana, MD, PhD.
-
-Explore [Hypathesis](https://hypathesis.com/?ref=company-predme) | [All products](https://predme.app)
+Explore [Hypathesis](https://hypathesis.com/?ref=company-predme) | [Research prototypes](https://predme.app)
