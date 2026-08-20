@@ -4,6 +4,27 @@
     "href": "index.html",
     "title": "PredMe — Building the Causal Inference Machine",
     "section": "",
-    "text": "Our vision is to transform how knowledge travels: from language that summarizes, to structure that connects, embedding discovery into every decision.\nPredMe is building the Causal Inference Machine — a universal prediction model that consumes scientific papers and datasets, and predicts outcomes. Not next words. Causation.\nWe help practitioners and scientists prevent unhealthy conditions before they manifest, embedding rigorous science into the way they already work. Biomedicine is where we start. The machine extends to every domain where causation matters — insurance, finance, marketing, policy.\nOur first product, Hypathesis, extracts structured causal relationships from research papers using a patented method. Peer-reviewed at IEEE EMBC 2026.\nExplore Hypathesis | Research prototypes"
+    "text": "Our vision is to transform how knowledge travels: from language that summarizes, to structure that connects, embedding discovery into every decision.\nPredMe is building the Causal Inference Machine — a universal prediction model that consumes scientific papers and datasets, and predicts outcomes. Not next words. Causation.\nWe help practitioners and scientists prevent unhealthy conditions before they manifest, embedding rigorous science into the way they already work. Biomedicine is where we start. The machine extends to every domain where causation matters — insurance, finance, marketing, policy."
+  },
+  {
+    "objectID": "index.html#our-product",
+    "href": "index.html#our-product",
+    "title": "PredMe — Building the Causal Inference Machine",
+    "section": "Our Product",
+    "text": "Our Product\nHypathesis is a live web application that extracts structured causal relationships from research papers using a patented method.\n\nLive at hypathesis.com\nPeer-reviewed at IEEE EMBC 2026 (92% correctness)\n17 beta testers, 94% willing to pay\nPatented method (Provisional App #64/033,281, filed Apr 8, 2026)\n\nResearch prototypes"
+  },
+  {
+    "objectID": "index.html#founder",
+    "href": "index.html#founder",
+    "title": "PredMe — Building the Causal Inference Machine",
+    "section": "Founder",
+    "text": "Founder\nHerdiantri Sufriyana, MD, PhD — Sole founder, 7 years of secondary data analysis in clinical medicine.\n\nLinkedIn (personal)\nLinkedIn (company)\nCrunchbase"
+  },
+  {
+    "objectID": "index.html#company",
+    "href": "index.html#company",
+    "title": "PredMe — Building the Causal Inference Machine",
+    "section": "Company",
+    "text": "Company\n\nPredMe, Inc. — Delaware C-Corp, incorporated Aug 31, 2025\nAddress: 131 Continental Dr, Ste 305, Newark, DE 19713\nContact: herdiantrisufriyana@predme.com"
   }
 ]

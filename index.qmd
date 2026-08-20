@@ -1,5 +1,10 @@
 ---
 title: "PredMe — Building the Causal Inference Machine"
+description: "PredMe is building the Causal Inference Machine — a universal prediction model that consumes scientific papers and datasets, and predicts outcomes."
+open-graph:
+  title: "PredMe — Building the Causal Inference Machine"
+  description: "PredMe is building the Causal Inference Machine — a universal prediction model that consumes scientific papers and datasets, and predicts outcomes."
+  site-name: "PredMe, Inc."
 ---
 
 Our vision is **to transform how knowledge travels: from language that summarizes, to structure that connects, embedding discovery into every decision.**
@@ -8,6 +13,27 @@ PredMe is building the Causal Inference Machine — a universal prediction model
 
 We help practitioners and scientists prevent unhealthy conditions before they manifest, embedding rigorous science into the way they already work. Biomedicine is where we start. The machine extends to every domain where causation matters — insurance, finance, marketing, policy.
 
-Our first product, Hypathesis, extracts structured causal relationships from research papers using a patented method. Peer-reviewed at IEEE EMBC 2026.
+## Our Product
 
-Explore [Hypathesis](https://hypathesis.com/?ref=company-predme) | [Research prototypes](https://predme.app)
+[Hypathesis](https://hypathesis.com/?ref=company-predme) is a live web application that extracts structured causal relationships from research papers using a patented method.
+
+- **Live at** [hypathesis.com](https://hypathesis.com/?ref=company-predme)
+- **Peer-reviewed** at IEEE EMBC 2026 (92% correctness)
+- **17 beta testers**, 94% willing to pay
+- **Patented method** (Provisional App #64/033,281, filed Apr 8, 2026)
+
+[Research prototypes](https://predme.app)
+
+## Founder
+
+**Herdiantri Sufriyana, MD, PhD** — Sole founder, 7 years of secondary data analysis in clinical medicine.
+
+- [LinkedIn (personal)](https://www.linkedin.com/in/herdiantri-sufriyana-a038b848/)
+- [LinkedIn (company)](https://www.linkedin.com/company/predme/)
+- [Crunchbase](https://www.crunchbase.com/organization/predme)
+
+## Company
+
+- **PredMe, Inc.** — Delaware C-Corp, incorporated Aug 31, 2025
+- **Address:** 131 Continental Dr, Ste 305, Newark, DE 19713
+- **Contact:** herdiantrisufriyana@predme.com
